@@ -1,28 +1,15 @@
 <div align="center">
 
-### My Contributions
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F62FE,50:2563EB,100:38BDF8&height=170&section=header&text=Gautam%20Kumawat&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20Developer%20%7C%20Software%20Engineering%20Intern&descSize=15&descAlignY=57" alt="Gautam Kumawat - Full-Stack Developer" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
-  <img alt="Gautam Kumawat's GitHub contribution history in 3D" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</picture>
+### Building responsive interfaces, reliable APIs, and database-driven web applications.
 
-[Contribution History](https://github.com/7gautamkumawat7?tab=overview) &nbsp; &bull; &nbsp; [Profile Repository Commits](https://github.com/7gautamkumawat7/7gautamkumawat7/commits)
-
-# Hi, I'm Gautam Kumawat
-
-**Software Engineering Intern &bull; Full-Stack Developer &bull; Backend Developer**
-
-Building thoughtful interfaces and reliable backends with the MERN stack.
-
-**NIT Srinagar &bull; B.Tech, Electrical Engineering &bull; 2024 - 2028**
-
+**NIT Srinagar** &bull; B.Tech, Electrical Engineering &bull; 2024 - 2028  
 Srinagar, Jammu & Kashmir, India
 
-<a href="mailto:7gautamkumawat7@gmail.com"><img alt="Email Gautam" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/gautamkumawat"><img alt="Gautam on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/7gautamkumawat7?tab=repositories"><img alt="Explore Gautam's repositories" src="https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:7gautamkumawat7@gmail.com"><img alt="Email Gautam" src="https://img.shields.io/badge/Email-0F62FE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/gautamkumawat"><img alt="Gautam on LinkedIn" src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/7gautamkumawat7?tab=repositories"><img alt="Explore Gautam's repositories" src="https://img.shields.io/badge/Explore_Work-1E40AF?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -30,59 +17,74 @@ Srinagar, Jammu & Kashmir, India
 
 ## About Me
 
-I'm an Electrical Engineering student at **NIT Srinagar** and a full-stack developer specializing in **MongoDB, Express.js, React, and Node.js**. I build web applications that bring responsive interfaces together with structured APIs and database-driven features.
+I'm an Electrical Engineering student at **NIT Srinagar** and a full-stack developer focused on the **MERN stack**. I build web applications that combine clean React interfaces, structured Node.js APIs, and database-backed product features.
 
-My work includes authentication systems, analytics dashboards, and payment integrations. I care about readable code, maintainable architecture, and a smooth experience for the people using what I build.
+I enjoy working on authentication systems, analytics dashboards, payment flows, and practical tools that feel fast, reliable, and easy to use.
 
 ## What I Build
 
-| Focus | My Work |
+| Focus | Work |
 | :--- | :--- |
-| **Full-Stack Applications** | Responsive React interfaces connected to Node.js and Express backends |
-| **APIs & Authentication** | RESTful APIs, JWT authentication, and database-driven application flows |
-| **Dashboards & Data** | Analytics dashboards and Python-based data analysis |
-| **Payments & Integrations** | Stripe, PayPal, Razorpay, and Google Maps API integrations |
+| **Full-Stack Apps** | Responsive React applications connected to Node.js and Express backends |
+| **APIs & Auth** | REST APIs, JWT authentication, protected routes, and database-driven flows |
+| **Dashboards & Data** | Analytics dashboards, charts, and Python-based data analysis |
+| **Payments & Integrations** | Stripe, PayPal, Razorpay, Google Maps API, and third-party services |
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
+
+### Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F62FE?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1D4ED8?style=flat-square&logo=mysql&logoColor=white)
 
-**Frontend**
+### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-0284C7?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1E3A8A?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
-**Backend & Databases**
+### Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-1D4ED8?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-1E40AF?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0369A1?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0F62FE?style=flat-square&logo=firebase&logoColor=white)
 
-**Developer Tools & Data**
+### Tools, Data & Integrations
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1D4ED8?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2563EB?style=flat-square&logo=postman&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1E40AF?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-**Integrations**
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-2563EB?style=flat-square&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+
+</div>
+
+## My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-blue.svg" />
+  <img alt="Gautam Kumawat's GitHub contribution history in 3D" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</picture>
+
+<div align="center">
+
+[Contribution History](https://github.com/7gautamkumawat7?tab=overview) &nbsp; &bull; &nbsp; [Profile Repository Commits](https://github.com/7gautamkumawat7/7gautamkumawat7/commits)
+
+</div>
 
 ---
 
@@ -90,8 +92,11 @@ My work includes authentication systems, analytics dashboards, and payment integ
 
 ### Let's Build Something Useful
 
-Open to collaboration on full-stack applications, backend systems, and developer tools.
+Open to collaboration on full-stack applications, backend systems, dashboards, and developer tools.
 
-[Get in Touch](mailto:7gautamkumawat7@gmail.com) &nbsp; &bull; &nbsp; [Explore My Repositories](https://github.com/7gautamkumawat7?tab=repositories)
+<a href="mailto:7gautamkumawat7@gmail.com"><img alt="Get in touch" src="https://img.shields.io/badge/Get_in_Touch-0F62FE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/7gautamkumawat7?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/Explore_Repositories-1E40AF?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F62FE&height=90&section=footer" alt="Blue footer wave" width="100%" />
 
 </div>
