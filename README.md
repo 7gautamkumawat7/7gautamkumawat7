@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F62FE,50:2563EB,100:38BDF8&height=170&section=header&text=Gautam%20Kumawat&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20Developer%20%7C%20Software%20Engineering%20Intern&descSize=15&descAlignY=57" alt="Gautam Kumawat - Full-Stack Developer" width="100%" />
+### My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-blue-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-blue.svg" />
+  <img alt="GitHub contribution history in blue 3D columns" src="./profile-3d-contrib/profile-blue.svg" width="100%" />
+</picture>
+
+[Contribution History](https://github.com/7gautamkumawat7?tab=overview) &nbsp; &bull; &nbsp; [Profile Repository Commits](https://github.com/7gautamkumawat7/7gautamkumawat7/commits)
+
+<br />
 
 ### Building responsive interfaces, reliable APIs, and database-driven web applications.
 
@@ -69,20 +79,6 @@ I enjoy working on authentication systems, analytics dashboards, payment flows, 
 ![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-
-</div>
-
-## My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-blue.svg" />
-  <img alt="Gautam Kumawat's GitHub contribution history in 3D" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</picture>
-
-<div align="center">
-
-[Contribution History](https://github.com/7gautamkumawat7?tab=overview) &nbsp; &bull; &nbsp; [Profile Repository Commits](https://github.com/7gautamkumawat7/7gautamkumawat7/commits)
 
 </div>
 
