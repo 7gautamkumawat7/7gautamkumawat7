@@ -1,0 +1,41 @@
+name: Blue 3D Contributions
+
+on:
+  schedule:
+    - cron: "17 18 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/profile-3d-blue.json"
+      - ".github/workflows/profile-3d-blue.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blue-3d-contributions
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - name: Generate blue contribution graphics
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-blue.json
+      - name: Update contribution graphics
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- profile-3d-contrib/profile-blue.svg profile-3d-contrib/profile-blue-dark.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update blue contribution graphics"
+            git push
+          fi

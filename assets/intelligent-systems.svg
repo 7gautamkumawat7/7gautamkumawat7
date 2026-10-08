@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">Intelligent Systems</title>
+  <desc id="desc">An electric-blue circuit connects interface, API, and data layers. Animated signals travel along the connections.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; }
+    .signal { stroke-dasharray: 7 45; animation: transmit 4s linear infinite; }
+    @keyframes transmit { to { stroke-dashoffset: -104; } }
+    @media (prefers-reduced-motion: reduce) { .signal { animation: none; } }
+  </style>
+  <rect width="960" height="240" fill="#090d14" />
+  <path d="M0 0H960M0 239H960" stroke="#253344" />
+  <path d="M30 40V24H46M930 200V216H914" fill="none" stroke="#38bdf8" stroke-width="2" />
+  <g fill="#38bdf8">
+    <text x="46" y="51" font-size="13" font-weight="700">FULL STACK / DATA / AI EXPLORATION</text>
+  </g>
+  <g fill="#f1f5f9" font-size="43" font-weight="700">
+    <text x="46" y="111">INTELLIGENT</text>
+    <text x="46" y="161">SYSTEMS</text>
+  </g>
+  <text x="46" y="203" fill="#a7b3c4" font-size="16">Thoughtful interfaces. Reliable foundations.</text>
+  <g fill="none" stroke="#244968" stroke-width="1.5">
+    <path d="M586 79H624L692 119H734L810 64H861" />
+    <path d="M586 163H624L692 119H734L810 164H861" />
+    <path d="M586 79H632V163H586" />
+    <path d="M861 64H886V164H861" />
+    <path d="M708 49V100M708 139V193" />
+  </g>
+  <g class="signal" fill="none" stroke="#38bdf8" stroke-width="2">
+    <path d="M586 79H624L692 119H734L810 64H861" />
+    <path d="M586 163H624L692 119H734L810 164H861" />
+  </g>
+  <g fill="#090d14" stroke="#0088ff" stroke-width="2">
+    <rect x="575" y="68" width="22" height="22" rx="3" />
+    <rect x="575" y="152" width="22" height="22" rx="3" />
+    <rect x="690" y="101" width="36" height="36" rx="4" />
+    <rect x="850" y="53" width="22" height="22" rx="3" />
+    <rect x="850" y="153" width="22" height="22" rx="3" />
+  </g>
+  <path d="M700 119H716M708 111V127" stroke="#38bdf8" stroke-width="2" />
+  <g fill="#94a3b8" font-size="12" text-anchor="middle">
+    <text x="586" y="117">INTERFACE</text>
+    <text x="708" y="160">API</text>
+    <text x="861" y="116">DATA</text>
+  </g>
+  <g fill="#38bdf8">
+    <rect x="704" y="45" width="8" height="8" />
+    <rect x="704" y="189" width="8" height="8" />
+  </g>
+</svg>
